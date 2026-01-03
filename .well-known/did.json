@@ -3,19 +3,19 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/ed25519-2020/v1"
   ],
-  "id": "did:web:didify.github.io:mcp-test-1767436273485",
+  "id": "did:web:didify.github.io:did-web-test",
   "verificationMethod": [
     {
-      "id": "did:web:didify.github.io:mcp-test-1767436273485#keys-1",
+      "id": "did:web:didify.github.io:did-web-test#keys-1",
       "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:didify.github.io:mcp-test-1767436273485",
-      "publicKeyMultibase": "z6MkhG9rP3t516C22XapoXPTT1R3oCNDnuGbaFrLzWTsVKXP"
+      "controller": "did:web:didify.github.io:did-web-test",
+      "publicKeyMultibase": "z6MkpZd8vcBSQiXAyWL8CS2SbF8T8yreucgobRQ65jPGMBak"
     }
   ],
   "authentication": [
-    "did:web:didify.github.io:mcp-test-1767436273485#keys-1"
+    "did:web:didify.github.io:did-web-test#keys-1"
   ],
   "assertionMethod": [
-    "did:web:didify.github.io:mcp-test-1767436273485#keys-1"
+    "did:web:didify.github.io:did-web-test#keys-1"
   ]
 }
