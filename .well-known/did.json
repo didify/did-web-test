@@ -9,7 +9,7 @@
       "id": "did:web:didify.github.io:did-web-test#keys-1",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:didify.github.io:did-web-test",
-      "publicKeyMultibase": "z6MkhaXgBZDvotD4L3557yuv56hZuqyFkPjF3BV1qVJqXQq"
+      "publicKeyMultibase": "z6MkfLexWsLphkuWEo2WyrJ7Je4Wrcu7uFxjzWxZGijeB4HP"
     }
   ],
   "authentication": [
